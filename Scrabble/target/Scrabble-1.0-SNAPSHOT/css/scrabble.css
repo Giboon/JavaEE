@@ -1,0 +1,33 @@
+.poleplanszy
+{
+    width: 7vh;
+    height: 5.5vh;
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+    border: 2px solid black;
+    float: left;
+    border-radius: 10px;
+}
+
+.poleLiter
+{
+    width: 6vh;
+    height: 4.5vh;
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px;
+    font-family: Inconsolata;
+    font-size: 22px;
+    background-color: darkseagreen;
+}
+
+.hide-text
+{
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
